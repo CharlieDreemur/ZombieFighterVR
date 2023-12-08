@@ -80,13 +80,5 @@
 				"Android"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor",
-		"AllDesktop",
-		"LinuxNoEditor",
-		"Android",
-		"MacNoEditor"
 	]
 }
